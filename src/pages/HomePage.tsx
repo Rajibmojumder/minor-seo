@@ -105,7 +105,7 @@ const HomePage = () => {
         />
         <meta 
           name="keywords" 
-          content="seo tools, plagiarism checker, ai detector, word counter, content analysis, grammar checker, paraphrasing tool" 
+          content="seo tools, best free seo tools, top seo tools, best seo checker, free seo software, cheapest seo tools, online ranking tool" 
         />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Minor SEO - Free SEO & Content Analysis Tools" />

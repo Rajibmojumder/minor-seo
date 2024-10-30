@@ -33,14 +33,12 @@ const Header = () => {
           </div>
 
           {/* Logo */}
-          <div className="flex items-center">
-            <Link to="/" className="flex items-center">
-              <Sparkles className="h-8 w-8 text-indigo-600" />
-              <span className="ml-2 text-xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 text-transparent bg-clip-text">
-                Minor SEO
-              </span>
-            </Link>
-          </div>
+          <Link to="/" className="flex items-center">
+            <Sparkles className="h-8 w-8 text-indigo-600" />
+            <span className="ml-2 text-xl font-bold bg-gradient-to-r from-indigo-600 to-purple-600 text-transparent bg-clip-text">
+              Minor SEO
+            </span>
+          </Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex md:items-center md:space-x-6">
